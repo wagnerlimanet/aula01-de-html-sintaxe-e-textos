@@ -16,6 +16,10 @@ Aula 01 de HTML, onde foi ensinado a estrutura base do código, além de comando
 * [Listas Não Ordenadas](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/listas-nao-ordenadas.html)
 * [Listas Ordenadas](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/listas-ordenadas.html)
 * [Listas por Definição](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/listas-por-definicao.html)
+
+# Atividade de Fixação 
+
+* [Imagem de Referência](https://marketplace.canva.com/EAE_8SVxssk/1/0/1131w/canva-preto-e-branco-curr%C3%ADculo-simples-da-%C3%A1rea-de-log%C3%ADstica-6YKN5ZsRnNE.jpg)
 * [Exercício Currículo](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/exercicio.html)
 
 
